@@ -1,0 +1,41 @@
+{
+  "_note": "TEMPLATE batch directory. Replace 'batch_name' and 'members' with the org's real records. Add or remove batch objects as needed. Keep years accurate.",
+  "batches": [
+    {
+      "year": "2003",
+      "batch_name": "Pioneer Batch",
+      "tagline": "Where the trail began.",
+      "members": ["Add member names here", "Add member names here"]
+    },
+    {
+      "year": "2010",
+      "batch_name": "Batch Name Here",
+      "tagline": "Short batch motto or theme.",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "year": "2015",
+      "batch_name": "Batch Name Here",
+      "tagline": "Short batch motto or theme.",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "year": "2019",
+      "batch_name": "Batch Name Here",
+      "tagline": "Short batch motto or theme.",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "year": "2022",
+      "batch_name": "Batch Name Here",
+      "tagline": "Short batch motto or theme.",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    },
+    {
+      "year": "2024",
+      "batch_name": "Batch Name Here",
+      "tagline": "Short batch motto or theme.",
+      "members": ["Member 1", "Member 2", "Member 3"]
+    }
+  ]
+}

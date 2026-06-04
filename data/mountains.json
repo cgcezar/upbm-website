@@ -1,0 +1,122 @@
+{
+  "_note": "Coordinates and elevations are APPROXIMATE and for general reference only. Verify with official sources, LGUs, and guides before any actual climb. Edit this file to add/correct entries.",
+  "mountains": [
+    {
+      "name": "Mount Pulag",
+      "elevation_m": 2922,
+      "location": "Kabayan / Bokod, Benguet",
+      "lat": 16.5963,
+      "lng": 120.8867,
+      "difficulty": "4/9 (Ambangeg) – 6/9 (Akiki)",
+      "notes": "Highest peak in Luzon, third highest in the Philippines. Famous for its 'sea of clouds' and dwarf bamboo summit. Protected area under Mt. Pulag National Park."
+    },
+    {
+      "name": "Mount Tabayoc",
+      "elevation_m": 2842,
+      "location": "Kabayan, Benguet",
+      "lat": 16.6175,
+      "lng": 120.8836,
+      "difficulty": "5/9",
+      "notes": "Second highest peak in Luzon. Dense, wet mossy forest within Mt. Pulag National Park. Often paired with the Four Lakes trek."
+    },
+    {
+      "name": "Mount Timbak (Singakalsa)",
+      "elevation_m": 2717,
+      "location": "Atok, Benguet",
+      "lat": 16.4503,
+      "lng": 120.8225,
+      "difficulty": "2/9",
+      "notes": "Third highest in Luzon yet one of the most accessible — the trailhead sits along Halsema Highway. Known for vegetable terraces and roadside summit cross."
+    },
+    {
+      "name": "Mount Kalawitan",
+      "elevation_m": 2714,
+      "location": "Sabangan / Bontoc, Mountain Province",
+      "lat": 16.9203,
+      "lng": 120.9711,
+      "difficulty": "6/9",
+      "notes": "One of the highest in the Cordillera with thick mossy forest and frequent fog. A classic Mountain Province climb."
+    },
+    {
+      "name": "Mount Amuyao",
+      "elevation_m": 2702,
+      "location": "Barlig, Mountain Province",
+      "lat": 16.9508,
+      "lng": 121.1228,
+      "difficulty": "7/9",
+      "notes": "Rugged peak overlooking the Barlig and Batad rice terraces. A demanding traverse route connects it toward Batad, Banaue."
+    },
+    {
+      "name": "Mount Napulauan",
+      "elevation_m": 2642,
+      "location": "Hungduan, Ifugao",
+      "lat": 16.8331,
+      "lng": 121.1019,
+      "difficulty": "7/9",
+      "notes": "Enchanting mossy 'fairy-tale' forest, often shrouded in mist. Historically linked to the WWII retreat of Gen. Yamashita."
+    },
+    {
+      "name": "Mount Tenglawan",
+      "elevation_m": 2715,
+      "location": "Bakun, Benguet",
+      "lat": 16.8014,
+      "lng": 120.6839,
+      "difficulty": "6/9",
+      "notes": "One of the 'Bakun Trio' peaks. Pine ridges, pitcher plants, and grassland summit views."
+    },
+    {
+      "name": "Mount Purgatory (Mangisi Range)",
+      "elevation_m": 2329,
+      "location": "Bokod, Benguet",
+      "lat": 16.5519,
+      "lng": 120.8617,
+      "difficulty": "5/9",
+      "notes": "Mossy-forest traverse across the Mangisi range (Bakian, Komkompol, Purgatory). Cool pine and mossy forest scenery."
+    },
+    {
+      "name": "Mount Ugo",
+      "elevation_m": 2150,
+      "location": "Itogon, Benguet / Kayapa, Nueva Vizcaya",
+      "lat": 16.4017,
+      "lng": 120.7825,
+      "difficulty": "4/9",
+      "notes": "Classic pine-forest traverse passing remote mountain villages. A popular and scenic multi-day beginner-friendly climb."
+    },
+    {
+      "name": "Mount Sto. Tomas",
+      "elevation_m": 2256,
+      "location": "Tuba, Benguet (near Baguio)",
+      "lat": 16.3331,
+      "lng": 120.5908,
+      "difficulty": "3/9",
+      "notes": "Overlooks Baguio City. Home to a pine and mossy forest and the historic 'Marlboro Country' grasslands."
+    },
+    {
+      "name": "Mount Kabunian",
+      "elevation_m": 1785,
+      "location": "Bakun, Benguet",
+      "lat": 16.7825,
+      "lng": 120.6611,
+      "difficulty": "5/9",
+      "notes": "Sacred mountain in Bakun cosmology with dramatic cliffs, hanging coffins, and waterfalls along the trail."
+    },
+    {
+      "name": "Mount Yangbew (Mt. Jumbo)",
+      "elevation_m": 1810,
+      "location": "La Trinidad, Benguet",
+      "lat": 16.4622,
+      "lng": 120.5894,
+      "difficulty": "1/9",
+      "notes": "Easy day-hike with 360° views of La Trinidad and Baguio. A great training and orientation hike for beginners."
+    },
+    {
+      "name": "Mount Kupapey",
+      "elevation_m": 1600,
+      "location": "Maligcong, Bontoc, Mountain Province",
+      "lat": 17.1006,
+      "lng": 120.9794,
+      "difficulty": "2/9",
+      "notes": "Short sunrise climb famous for its sea of clouds over the Maligcong rice terraces."
+    }
+  ]
+}

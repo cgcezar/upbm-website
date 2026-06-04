@@ -1,0 +1,70 @@
+{
+  "_note": "SAMPLE events. Replace the dates, titles, and details with the org's real schedule. 'category' controls the color (climb, training, advocacy, social, meeting). Dates are in YYYY-MM-DD format.",
+  "events": [
+    {
+      "title": "General Assembly",
+      "start": "2026-06-12",
+      "category": "meeting",
+      "location": "UP Baguio Campus",
+      "description": "First GA of the semester. Open to members and applicants."
+    },
+    {
+      "title": "Basic Mountaineering Course (BMC) – Lecture 1",
+      "start": "2026-06-20",
+      "category": "training",
+      "location": "UP Baguio Campus",
+      "description": "Introduction to mountaineering, Leave No Trace, and gear."
+    },
+    {
+      "title": "Training Hike: Mt. Yangbew",
+      "start": "2026-06-28",
+      "category": "climb",
+      "location": "La Trinidad, Benguet",
+      "description": "Beginner orientation hike and fitness assessment."
+    },
+    {
+      "title": "BMC – Lecture 2: Navigation & Safety",
+      "start": "2026-07-04",
+      "category": "training",
+      "location": "UP Baguio Campus",
+      "description": "Map reading, navigation, and emergency response."
+    },
+    {
+      "title": "Minor Climb: Mt. Sto. Tomas",
+      "start": "2026-07-18",
+      "end": "2026-07-19",
+      "category": "climb",
+      "location": "Tuba, Benguet",
+      "description": "Overnight minor climb for applicants and members."
+    },
+    {
+      "title": "Coastal & Trail Clean-up Drive",
+      "start": "2026-08-09",
+      "category": "advocacy",
+      "location": "TBA",
+      "description": "Environmental advocacy activity. Volunteers welcome."
+    },
+    {
+      "title": "Major Climb: Mt. Pulag (Akiki–Ambangeg)",
+      "start": "2026-08-22",
+      "end": "2026-08-24",
+      "category": "climb",
+      "location": "Kabayan / Bokod, Benguet",
+      "description": "Multi-day major climb. Requires completed BMC and clearance."
+    },
+    {
+      "title": "Anniversary Night & Fellowship",
+      "start": "2026-09-05",
+      "category": "social",
+      "location": "Baguio City",
+      "description": "Celebrating another year of the organization."
+    },
+    {
+      "title": "Run for Trails",
+      "start": "2026-11-15",
+      "category": "advocacy",
+      "location": "Camp John Hay, Baguio City",
+      "description": "Annual trail-running advocacy event promoting open green spaces."
+    }
+  ]
+}
